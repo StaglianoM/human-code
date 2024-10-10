@@ -33,8 +33,8 @@ Amazon Regalo
                   - Cerco penna Stilografica
                   - SE non costa troppo acquista ora
                   - ALTRIMENTI passo al prodotto successivo
-                  - Cerco il libro
-                  - Aggiungo il libro al carrello 
+                    - Cerco il libro
+                    - Aggiungo il libro al carrello 
 
 - Carrello (Checkout)
     - Impostare Dati Personali
